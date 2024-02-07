@@ -8,6 +8,7 @@ export default function Homepage() {
   return (
     <article>
       <p>This is the staging branch.</p>
+      <p>Update.</p>
     </article>
   )
 }
